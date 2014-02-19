@@ -1,0 +1,27 @@
+Facebook Archive for Google Chrome
+
+This script works in conjunction with Google Chrome to archive multiple branch pages for a library system's Facebook presence. The library I work for has something like 17 pages that need to be converted to PDF for archival purposes. The internal Save to PDF feature in Google Chrome easily facilitates this.
+
+This script is written in AutoHotkey:
+www.autohotkey.com
+
+You can modify the URLs as needed.
+
+To use:
+
+1. Open Google Chrome and set the printer to be Save to PDF.
+
+2. Close Google Chrome, the script will relaunch it when needed.
+
+3. Create a directory for PDFs to save into. The default is C:\SocialPrint but this can be changed in the code. Create the directory before the next step.
+
+4. Execute the script (after modifying it to your needs). Take your hands off the keyboard and let it run.
+
+5. All files will save to the directory specified in step 3.
+
+Send any questions to 
+
+Daniel Messer
+cyberpunklibrarian@gmail.com
+@bibrarian
+google.com/+DanielMesser
